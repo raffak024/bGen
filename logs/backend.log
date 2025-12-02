@@ -1,0 +1,167 @@
+
+> report-generator-chatgpt-tool@1.0.0 dev
+> nodemon backend/server.js
+
+[33m[nodemon] 3.1.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:3769278) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3769278) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4013569) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4013569) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4016950) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4016950) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4022292) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4022292) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4025210) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4025210) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4035546) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4035546) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4035998) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4035998) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node backend/server.js`[39m
+Middleware konfiguriert: CORS (trycloudflare.com + localhost) und JSON-Parsing aktiviert
+Routen geladen:
+  - /auth
+  - /settings
+  - /report
+  - /reports
+  - /areas
+  - /tags
+  - /admin (User Management & Analytics)
+  - /organizations (NEW: Multi-Tenant Orgs)
+  - /customers (NEW: Customer Management)
+  - /generate-magic-prompt
+  - /analyze-document (NEW: Magic Document Analysis)
+(node:4036541) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4036541) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server läuft auf http://localhost:3001
+Database connected to localhost

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "1730596939361",
+    "name": "PC/Arbeitsplatz - Hilfsmittel Ziff 13.01 HVI",
+    "content": {
+      "basisPrompt": "Du bist ein Fachberater für Assistive Technologien, spezialisiert auf Hilfsmittel im Rahmen des Projekts HVI 13.01, die XXX (Personen immer als XXX bezeichnen) ermöglichen, Computer oder iPads am Arbeitsplatz oder in der Schule effizient zu nutzen. Verwende die bereitgestellten Informationen zur Ausgangslage und zur geplanten Lösung sowie den angegebenen Gliederungs- oder Unterpunkttitel, um einen präzisen und inhaltlich passenden Text zu erstellen, der ausschließlich auf den jeweiligen Gliederungs- oder Unterpunkttitel bezogen ist. Wichtig: Schreibe nicht in der Ich-Form, sondern allgemein beschreibend. Erstelle nur die Texte wie beschrieben, ohne deine Aufgabe zu erklären. Jeder Text bezieht sich ausschließlich auf den jeweiligen Gliederungs- oder Unterpunkttitel. Beachte stets das Ziel des Projekts (geplante Lösung). Achte darauf, dass Auflistungen separat interpretiert und generiert werden. Verwende kein deutsches Doppel-S (ss). Stelle das Hauptthema sowie die Begriffe \"Assistive Technologien\" und \"Hilfsmittel im Rahmen des Projekts HVI 13.01\" stets im Zusammenhang mit der vorgeschlagenen Lösung dar, ohne diese Begriffe häufig zu wiederholen.",
+      "contextMain": "-Funktionseinschränkung des re Hands, Sehnenverkürzung und evtl. Versteifungen der Fingergelenke. Keine Streckung der Finger mehr möglich.\n-Erschwertes Arbeiten am Computer\n-Umschulung zur KV Mitarbeiterin im Spital Zollikerberg",
+      "plannedSolution": "- Dragon Naturally Speaking - Spracheingabe Software\n- PhraseExpress Textbausteine Software\n- Contour RollerMouse Red Plus\n- Auftrag: (bitte Apps/Anwendungen im Bezug auf den Kontext beschreiben)",
+      "contextMainTags": [
+        "Schwache Cerebralparese",
+        "Stake Cerebralparese"
+      ],
+      "plannedSolutionTags": [
+        "iPad normale grösse (PRD Prentke Romich, - Via Air)",
+        "ClaroRead iOS",
+        "SnapType Pro2",
+        "Schreiben DE",
+        "Structured APP",
+        "NikiDiary",
+        "C-Pen Reader 2",
+        "OrCam Smart Reader",
+        "Auftrag: (bitte Apps/Anwendungen im Bezug auf den Kontext beschreiben)",
+        "Halterung Rollstuhl",
+        "Predictable App - Kommunikation",
+        "Fingerführraster für entsprechend Kommunikations App",
+        "Flic Button (Frei-Programmierbare Buttons)",
+        "Halterung Elektrorollstuhl",
+        "iPad normale grösse",
+        "Test",
+        "iPad normale grösse (PRD Prentke Romich",
+        "- Via Air)",
+        "Dragon Naturally Speaking - Spracheingabe Software",
+        "PhraseExpress Textbausteine Software",
+        "Contour RollerMouse Red Plus"
+      ],
+      "sections": [
+        {
+          "title": "\"Entscheidungsfindungsbericht nach Abklärung, Hilfsmittel Ziff 13.01 HVI\" (Angaben Person/Lösung/Ausgangslage)",
+          "description": "  ",
+          "tags": [],
+          "subsections": [
+            {
+              "title": "\"Erweiterte Ausgangslage / Erwiterte Beschreibung der Person\"",
+              "description": "- Ergänze die Ausgangslage (sinnvoll Anhand oben stehender Informationen)",
+              "tags": [
+                "Ergänze die Ausgangslage (sinnvoll Anhand oben stehender Informationen)"
+              ]
+            },
+            {
+              "title": "\"Bereits vorhandenes Hilfsmittel\"",
+              "description": "- Keines Vorhanden  ",
+              "tags": [
+                "Keines Vorhanden"
+              ]
+            },
+            {
+              "title": "\"Einsatz dieses Hilfsmittel\"",
+              "description": "  ",
+              "tags": [
+                "wird nicht mehr eingesetzt"
+              ]
+            },
+            {
+              "title": "\"Warum genügt das Hilfsmittel nicht mehr?\"",
+              "description": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "title": "Hilfsmittel am Arbeitsplatz zur Schulung und Ausbildung  HVI-Ziff. 13.01 : Begründung Wahl Hilfsmittel: Hauptpunkt Anforderungen",
+          "description": "- WICHTIG: Hauptauftrag: Erstelle eine formatierte Auflistung der Anforderungen des Hilfsmittels anhand obenstehender Infos",
+          "tags": [
+            "Eingaben mit einer QWERTZ Tastatur (Hüllen-Tastatur-Lösung für mobiles Arbeiten)",
+            "Einfache Bedienung des Gerätes für XXX und das Umfeld",
+            "Gerät muss robust und mobil sein",
+            "Einlesen und Bearbeiten von Arbeitsblättern",
+            "WICHTIG: Hauptauftrag: Erstelle eine formatierte Auflistung der Anforderungen des Hilfsmittels anhand obenstehender Infos"
+          ],
+          "subsections": [
+            {
+              "title": "\"Ansteuerung des Geräts/Hilfsmittels\"",
+              "description": "",
+              "tags": [
+                "Touchscreen Bildschirm",
+                "Tastatur in Schutzhülle",
+                "HID Mouse und Keyboard"
+              ]
+            },
+            {
+              "title": "\"Eventuelle Anpassung der \"Ansteuerung, Verzögerung, Fingerführraster, Tastenwiederholung, Halterung\" für das Gerät/Hilfsmittel\"",
+              "description": "- Ergänze folgenden Text sinnvoll anhand der Informationen oben: \"Eventuelle Anpassungen werden während des Gebrauchtrainings evaluiert werden\"",
+              "tags": [
+                "Dragon Naturally Speaking",
+                "PhraseExpress",
+                "Ergänze folgenden Text sinnvoll anhand der Informationen oben",
+                "Ergänze folgenden Text sinnvoll anhand der Informationen oben:",
+                "Ergänze folgenden Text sinnvoll anhand der Informationen oben: \"Eventuelle Anpassungen werden während des Gebrauchtrainings evaluiert werden\""
+              ]
+            },
+            {
+              "title": "\"Hardware\" (Gerät/Hilfsmittel)",
+              "description": "- Contour RollerMouse Red Plus",
+              "tags": [
+                "B-Key Hardware System",
+                "iPad Apple",
+                "iPad Pro Apple",
+                "Microsoft Surface",
+                "Contour RollerMouse Red Plus"
+              ]
+            },
+            {
+              "title": "\"Software\" (Gerät/Hilfsmittel)",
+              "description": "- Dragon Naturally Speaking - Spracheingabesoftware\n- PhraseExpress Textbausteine Software",
+              "tags": [
+                "Dragon Naturally Speaking - Spracheingabesoftware",
+                "PhraseExpress Textbausteine Software"
+              ]
+            },
+            {
+              "title": "\"Anbindung an vorhandene IT-Strukturen des Gerät/Hilfsmittel\"",
+              "description": "- Das Gerät wird an vorhandene IT-Strukturen der Schule und zu Hause angebunden werden müssen",
+              "tags": [
+                "Das Gerät wird an vorhandene IT-Strukturen der Schule und zu Hause angebunden werden müssen"
+              ]
+            },
+            {
+              "title": "\"Abgeklärte Hilfsmittel (Vorabklärung)\" Geräte/Hilfsmittel",
+              "description": "- An der Abklärung vor Ort wurde folgende Hilfsmittel in Betracht gezogen:\n- Spracheingabesysteme\n- Verschiedene HID Eingabegeräte",
+              "tags": [
+                "An der Abklärung vor Ort wurde folgende Hilfsmittel in Betracht gezogen:",
+                "Spracheingabesysteme",
+                "Windows Gerät",
+                "Verschiedene HID Eingabegeräte"
+              ]
+            },
+            {
+              "title": "\"Wahl des Hilfsmittel: Auswahl- und  Ausschlaggebende Kriterien für das Gerät/Hilfsmittel\"",
+              "description": "- Die Versorgung ist im Sinne der IV - einfach und zweckmässig gewählt worden\n- Folgende Lösung kann die Person unterstüzen:",
+              "tags": [
+                "Die Versorgung ist im Sinne der IV - einfach und zweckmässig gewählt worden",
+                "Folgende Lösung kann die Person unterstüzen:"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1730596952273",
+    "name": "HVI 15.05 - Umfeldkontrollgeräte",
+    "content": {
+      "basisPrompt": "Du bist ein Fachberater für Assistive Technologien, spezialisiert auf Hilfsmittel im Rahmen des Projekts HVI 15.05, die XXX ermöglichen, mit ihrer Umwelt in Kontakt zu treten und sich innerhalb ihres Wohnbereichs selbstständig fortzubewegen. Verwende die bereitgestellten Informationen zur Ausgangslage und zur geplanten Lösung sowie den angegebenen Gliederungs- oder Unterpunkttitel, um einen präzisen und inhaltlich passenden Text zu erstellen, der ausschließlich auf den jeweiligen Gliederungs- oder Unterpunkttitel bezogen ist. Schreibe nicht in der Ich-Form, sondern allgemein beschreibend. Erstelle nur die Texte wie beschrieben, ohne deine Aufgabe zu erklären. Jeder Text bezieht sich ausschließlich auf den jeweiligen Gliederungs- oder Unterpunkttitel. Beachte stets das Ziel des Projekts (geplante Lösung). Achte darauf, dass Auflistungen separat interpretiert und generiert werden. Verwende kein deutsches Doppel-S (ss). Stelle das Hauptthema sowie die Begriffe \"Assistive Technologien\" und \"Hilfsmittel im Rahmen des Projekts HVI 15.05\" stets im Zusammenhang mit der vorgeschlagenen Lösung dar, ohne diese Begriffe häufig zu wiederholen.",
+      "contextMain": "Leider stürze ich des öffteren bei Transfer vom Rollstuhl aufs Bett. Da ich nicht mehr selbstständig aufstehen kann, benötige ich externe Hilfe. Da die Haustüre automaitsch geschlossen ist und ich die vorhandene Fix-installierte Gegensprechanlage nicht erreichen kann, benötige ich eine transportable Anlage.",
+      "plannedSolution": "- RTS25 Sensorwandtaster Marke Eldat (Sender Taster, welcher frei Positioniert werden kann)\n- Anpassung vorhandene Rufanlage mit Mini Empfänger Marke Eldat (RCL03)\n- Auftrag: (bitte Apps/Anwendungen/Produkte im Bezug auf den Kontext beschreiben)",
+      "contextMainTags": [
+        "Schwache Cerebralparese",
+        "Stake Cerebralparese",
+        "TEstasdasd",
+        "test2asdasdasdasdtest"
+      ],
+      "plannedSolutionTags": [
+        "iPad normale grösse",
+        "Auftrag: (bitte Apps/Anwendungen/Produkte im Bezug auf den Kontext beschreiben)",
+        "Wandtaster",
+        "RTS25 Sensorwandtaster Marke Eldat (Sender Taster",
+        "welcher frei Positioniert werden kann)",
+        "Anpassung vorhandene Rufanlage mit Mini Empfänger Marke Eldat (RCL03)"
+      ],
+      "sections": [
+        {
+          "title": "Entscheidungsfindungsbericht nach Abklärung, Hilfsmittel Ziff 15.05 HVI",
+          "description": "",
+          "tags": [],
+          "subsections": [
+            {
+              "title": "\"Ausgangslage/ Beschreibung der Person  \"",
+              "description": "- Ergänze sinnvoll !NUR! die Ausganglsage oder fasse !NUR! die Ausgangslage (oben stehend) auf etwa 15 zusammen.",
+              "tags": [
+                "Ergänze oder fasse !NUR! die Ausgangslage (oben stehend) zusammen"
+              ]
+            },
+            {
+              "title": "\"Bereits vorhandenes Hilfsmittel \"",
+              "description": "- keines",
+              "tags": [
+                "keines"
+              ]
+            },
+            {
+              "title": "\"Einsatz dieses Hilfsmittel \"",
+              "description": "",
+              "tags": []
+            },
+            {
+              "title": "\"Warum genügt HM nicht mehr? \"",
+              "description": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "title": "\"Umfeldkontrollgerät HVI-Ziff. 15.05: Begründung Wahl Hilfsmittel\"",
+          "description": "- WICHTIG: Hauptauftrag: Erstelle eine formatierte Auflistung der Anforderungen des Hilfsmittels anhand obenstehender Infos",
+          "tags": [
+            "Vollumfängliche Nutzung des Smartphones im Bett",
+            "Ansteuerung elektrischer Verbraucher über das Smartphone",
+            "WICHTIG: Hauptauftrag: Erstelle eine formatierte Auflistung der Anforderungen des Hilfsmittels anhand obenstehender Infos"
+          ],
+          "subsections": [
+            {
+              "title": "\"Welche Funktionen sollen mit dem Umweltkontrollgerät erfüllt werden? \"",
+              "description": "- motorisierte Türen ansteuern",
+              "tags": [
+                "motorisierte Türen ansteuern",
+                "Licht ein und ausschalten",
+                "motorisierte Fenster"
+              ]
+            },
+            {
+              "title": "\"Welche Steuergeräte werden benötigt? \"",
+              "description": "- Taster Funk-Sender der Marke Eldat",
+              "tags": [
+                "Umfeldkontrollgerät Housemate",
+                "Taster Funk-Sender der Marke Eldat"
+              ]
+            },
+            {
+              "title": "\"Welche Empfangsgeräte werden benötigt? \"",
+              "description": "- Funk-Empfänger Marke Eldat",
+              "tags": [
+                "Funk-Empfänger Marke Eldat"
+              ]
+            },
+            {
+              "title": "\"Ansteuerungsmethode und Anpassung der Ansteuerung \"",
+              "description": "- verschiedene Taster werden an geeigneten Positionen platziert, sodass diese in jeder Situation erreicht werden können",
+              "tags": [
+                "während des Tages durch Touchscreen",
+                "Bettsituation mittels einem geeignet positioniertem Taster"
+              ]
+            },
+            {
+              "title": "\"Halterungssysteme (Verzögerung, Fingerführraster, Tastenwiederholung etc.) \"",
+              "description": "- keine Halterungsysteme notwendig",
+              "tags": [
+                "Es sind Halterungselemente für die Situation im Bett und das Housemate am Rollstuhl notwendig.",
+                "keine Halterungsysteme notwendig"
+              ]
+            },
+            {
+              "title": "\"Externe beteiligte Lieferanten (siehe separate Offerte) \"",
+              "description": "- Die Offerten von Externen Lieferanten werden dem Abklärungsbericht beigelegt",
+              "tags": [
+                "Es sind keine externen Lieferanten beteiligt.",
+                "Die Offerten von Externen Lieferanten werden dem Abklärungsbericht beigelegt"
+              ]
+            },
+            {
+              "title": "\"Abgeklärte Hilfsmittel (Vorabklärung) \"",
+              "description": "- Gewa Handsender\n- Housemate",
+              "tags": [
+                "Gewa Handsender",
+                "Housemate"
+              ]
+            },
+            {
+              "title": "\"Wahl des Hilfsmittel: Auswahl- und  Ausschlaggebende Kriterien \"",
+              "description": "- Die Versorgung ist im Sinner der IV einfach und zweckmässig gewählt",
+              "tags": [
+                "Die Versorgung ist im Sinner der IV einfach und zweckmässig gewählt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1731641696809",
+    "name": "Nives Hundeschule",
+    "content": {
+      "basisPrompt": "",
+      "contextMain": "Nives ist eine nette junge Frau welche eine Hundeschule eröffnen will. Ihr Freund wehrt sich jedoch hat er sehr bald auch Lust sogar eine Hundepension zu eröffnen.",
+      "plannedSolution": "-Hundeschule in Dagmersellen\n-Ausbildung durch Petra\n-Robi geht immer mit den Hunden Spatzieren",
+      "contextMainTags": [],
+      "plannedSolutionTags": [],
+      "sections": [
+        {
+          "title": "Vorhaben",
+          "description": "- Test Vorh",
+          "tags": [
+            "Test Vorh"
+          ],
+          "subsections": [
+            {
+              "title": "Beschreibung des Vorhabens",
+              "description": "- Erkl\n- Tes Beschr Vorh",
+              "tags": [
+                "Tes Beschr Vorh"
+              ]
+            },
+            {
+              "title": "Erklären Hunderassen",
+              "description": "- Erklär Ra",
+              "tags": [
+                "Erklär Ra"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wie Was Wo",
+          "description": "- Wer macht was",
+          "tags": [
+            "Wer macht was"
+          ],
+          "subsections": [
+            {
+              "title": "Wie erreichen wir das Ziel?",
+              "description": "- Was tun",
+              "tags": [
+                "Was tun"
+              ]
+            },
+            {
+              "title": "Woher haben wir die Zeit und das Geld?",
+              "description": "- Krypt0millio$r",
+              "tags": [
+                "Krypt0millio$r"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ergebniss",
+          "description": "- Nice",
+          "tags": [
+            "Nice"
+          ],
+          "subsections": [
+            {
+              "title": "So leben wir heute!",
+              "description": "- Wohooooo",
+              "tags": [
+                "Wohooooo"
+              ]
+            },
+            {
+              "title": "Ach ist das Leben schön :)",
+              "description": "- TOPOTOPTOPTOPOO",
+              "tags": [
+                "TOPOTOPTOPTOPOO"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1731885182965",
+    "name": "KOMT - Hilfsmittel Ziff 15.02 HVI",
+    "content": {
+      "basisPrompt": "Du bist ein Fachberater für Assistive Technologien, spezialisiert auf Hilfsmittel im Rahmen des Projekts HVI 15.02, die XXX ermöglichen, mit ihrer Umwelt in Kontakt zu treten. Verwende die bereitgestellten Informationen zur Ausgangslage, zur geplanten Lösung sowie die unten genannten Gliederungspunkte und Unterpunkte, um präzise und inhaltlich passende Texte zu erstellen, die als Grundlage für einen Bericht dienen. Schreibe nicht in der Ich-Form, sondern allgemein beschreibend. Erstelle nur die Texte wie beschrieben, ohne deine Aufgabe zu erklären. Jede Anfrage wird als separates Textelement behandelt und basiert auf den bereitgestellten dynamischen Inhalten. Beachte stets das Ziel des Projekts (geplante Lösung). Achte darauf, dass Auflistungen separat interpretiert und generiert werden. Verwende kein deutsches Doppel-S (ss). Beschreibe das Hauptthema und die Ausdrücke \"Assistive Technologien\" und \"Hilfsmittel im Rahmen des Projekts HVI 15.02\" immer im Bezug auf die vorgeschlagene Lösung.",
+      "contextMain": "Hemiplegie Tetraparese. Sehr starke Gesichtsfeldeinschränkung. Sprachprobleme aufgrund Lähmung des Gaumensegels und neuralen Defiziten, was sich sehr negativ auf die Lautstärke der Artikulation auswirkt. Folglich die Komnunikation im öffentlichen Raum und in Gesellschaft verunmöglicht.",
+      "plannedSolution": "- Bluetooth Speaker mit Halterung am Rollstuhl\n- Powerbank für mobiles Laden\n- Bluetooth Headset als Mikrofon\n- iOS App welche Mikrofon nutzt und an die Bluetooth-Boxen als Stimm-Verstärker nutzt\n- Auftrag: (bitte Apps/Anwendungen im Bezug auf den Kontext beschreiben)",
+      "contextMainTags": [],
+      "plannedSolutionTags": [
+        "iPad normale grösse (PRD Prentke Romich, - Via Air)",
+        "ClaroRead iOS",
+        "SnapType Pro2",
+        "Schreiben DE",
+        "Structured APP",
+        "NikiDiary",
+        "C-Pen Reader 2",
+        "OrCam Smart Reader",
+        "Auftrag: (bitte Apps/Anwendungen im Bezug auf den Kontext beschreiben)",
+        "Halterung Rollstuhl",
+        "Predictable App - Kommunikation",
+        "Fingerführraster für entsprechend Kommunikations App",
+        "Flic Button (Frei-Programmierbare Buttons)",
+        "Halterung Elektrorollstuhl",
+        "iPad normale grösse",
+        "Test",
+        "iPad normale grösse (PRD Prentke Romich",
+        "- Via Air)"
+      ],
+      "sections": [
+        {
+          "title": "Entscheidungsfindungsbericht nach Abklärung, Hilfsmittel Ziffer 15.02 HVI (Angaben Person/Lösung/Ausgangslage)",
+          "description": "",
+          "tags": [],
+          "subsections": [
+            {
+              "title": "Erweiterte Ausgangslage / Beschreibung der Person",
+              "description": "",
+              "tags": [
+                "Ergänze die Ausgangslage (sinnvoll Anhand oben stehender Informationen)"
+              ]
+            },
+            {
+              "title": "Bereits vorhandenes Hilfsmittel",
+              "description": "",
+              "tags": [
+                "Keines Vorhanden",
+                "Lightwriter SL 40"
+              ]
+            },
+            {
+              "title": "Einsatz dieses Hilfsmittel",
+              "description": "",
+              "tags": [
+                "wird nicht mehr eingesetzt",
+                "wird so gut es geht noch eingesetzt"
+              ]
+            },
+            {
+              "title": "Warum genügt HM nicht mehr?",
+              "description": "",
+              "tags": [
+                "hat Ausfälle",
+                "nicht mehr reparierbar"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "\"Kommunikationsgerät / Lösung nach HVI-Ziffer 15.02 Begründung Wahl HM \" : Begründung Wahl Hilfsmittel: Hauptpunkt Anforderungen",
+          "description": "",
+          "tags": [
+            "Kommunikation mittels synthetischer Sprachausgabe",
+            "WICHTIG: Hauptauftrag: Erstelle eine formatierte Auflistung der Anforderungen des Hilfsmittels anhand obenstehender Infos"
+          ],
+          "subsections": [
+            {
+              "title": "\"Wortschatz\"",
+              "description": "",
+              "tags": [
+                "verfügt über einen normalen Wortschatz",
+                "es kann somit eine QWERTZ Tastatur/Oberfläche",
+                "ohne Reduzierung des Wortschatzes genutzt werden"
+              ]
+            },
+            {
+              "title": "\"Tastengrösse\"",
+              "description": "",
+              "tags": [
+                "Die Grösse der Tasten orientiert sich am normalen QWERTZ Tastatur-Layout"
+              ]
+            },
+            {
+              "title": "\"Anzahl Tasten\"",
+              "description": "",
+              "tags": [
+                "Die Anzahl der Tasten orientiert sich am normalen QWERTZ Tastatur-Layout"
+              ]
+            },
+            {
+              "title": "\"Ansteuerungsmethode\"",
+              "description": "",
+              "tags": [
+                "Ansteuerung mittels Augensteuerung",
+                "Ansteuerung mittels Touchscreen"
+              ]
+            },
+            {
+              "title": "\"Anpassung der Ansteuerung (Verzögerung, Fingerführraster, Tastenwiederholung etc.)\"",
+              "description": "",
+              "tags": [
+                "\"Eventuelle Anpassungen werden während des Gebrauchtrainings evaluiert werden\""
+              ]
+            },
+            {
+              "title": "\"Eventuelle Halterung für Rollstuhl, Tisch etc.\"",
+              "description": "",
+              "tags": [
+                "Es sind Halterungen für folgende Bereiche notwendig:",
+                "Elektrorollstuhl",
+                "Handrollstuhl"
+              ]
+            },
+            {
+              "title": "\"Abgeklärte Hilfsmittel (Vorabklärung)\"",
+              "description": "",
+              "tags": [
+                "verschiedene",
+                "Auflistung von Alternativen"
+              ]
+            },
+            {
+              "title": "\"Wahl des Hilfsmittels: Auswahl- und Ausschlaggebende Kriterien\"",
+              "description": "",
+              "tags": [
+                "Fasse die geplante Lösung im Bezug auf die Ausgangslage zusammen und finde wichtige Kriterien",
+                "Die Versorgung ist im Sinne der IV - einfach und zweckmässig gewählt worden"
+              ]
+            },
+            {
+              "title": "\"Wahl des Hilfsmittels: Auswahl- und Ausschlaggebende Kriterien\"",
+              "description": "",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

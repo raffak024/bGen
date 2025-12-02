@@ -1,0 +1,213 @@
+
+> bgen-new@0.0.0 dev
+> vite
+
+
+  VITE v7.2.2  ready in 242 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.124:5173/
+  ➜  Network: http://172.17.0.1:5173/
+  ➜  Network: http://172.19.0.1:5173/
+  ➜  Network: http://172.18.0.1:5173/
+20:53:53 [vite] (client) hmr update /src/components/auth/AuthPageAutumn.tsx, /src/index.css
+20:53:54 [vite] (client) hmr update /src/components/auth/AuthPageAutumn.tsx, /src/index.css
+20:53:55 [vite] (client) hmr update /src/components/auth/AuthPageAutumn.tsx, /src/index.css
+20:54:43 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+20:54:43 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+20:54:44 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+20:57:35 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+20:57:35 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+20:58:15 [vite] (client) hmr update /src/components/auth/AuthPageAutumn.tsx, /src/index.css
+20:58:16 [vite] (client) hmr update /src/components/auth/AuthPageAutumn.tsx, /src/index.css
+20:58:53 [vite] (client) hmr update /src/index.css, /src/pages/DemoShowcase.tsx
+20:58:53 [vite] (client) hmr update /src/index.css, /src/pages/DemoShowcase.tsx
+20:58:54 [vite] (client) hmr update /src/index.css, /src/pages/DemoShowcase.tsx
+21:08:36 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+21:08:37 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+21:16:38 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:16:39 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:16:39 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:16:40 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:16:41 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:16:42 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:20:27 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:21:41 [vite] (client) hmr update /src/index.css
+21:23:20 [vite] (client) hmr update /src/pages/DemoShowcaseAutumn.tsx, /src/index.css
+21:37:27 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+21:37:45 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+21:40:00 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+21:58:06 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+22:04:59 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+22:05:17 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+22:05:32 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+22:48:16 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+22:48:25 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+22:48:39 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+22:49:00 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+22:49:18 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+22:51:21 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+22:53:26 [vite] (client) hmr update /src/components/wizard/WizardContainerAutumn.tsx, /src/index.css
+00:00:15 [vite] (client) hmr update /src/AppAutumn.tsx, /src/components/wizard/WizardContainerAutumn.tsx, /src/components/editor/AreaSelectorAutumn.tsx, /src/components/reports/ReportCreationModal.tsx, /src/pages/ReportsViewAutumn.tsx, /src/components/editor/EditorLayoutAutumn.tsx, /src/components/wizard/steps/GenerateResultsStep.tsx, /src/components/wizard/steps/ReviewPromptsStep.tsx, /src/components/wizard/steps/DefineContextStep.tsx, /src/components/wizard/steps/SelectAreaStep.tsx, /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/components/editor/ContentEditor.tsx, /src/components/editor/TreeView.tsx, /src/components/editor/PromptVisualizer.tsx, /src/components/editor/BasisPromptEditor.tsx, /src/pages/GliederungView.tsx, /src/pages/BasisPromptEditor.tsx, /src/index.css
+00:00:44 [vite] (client) hmr update /src/AppAutumn.tsx, /src/components/wizard/WizardContainerAutumn.tsx, /src/components/editor/AreaSelectorAutumn.tsx, /src/components/reports/ReportCreationModal.tsx, /src/pages/ReportsViewAutumn.tsx, /src/components/editor/EditorLayoutAutumn.tsx, /src/components/wizard/steps/GenerateResultsStep.tsx, /src/components/wizard/steps/ReviewPromptsStep.tsx, /src/components/wizard/steps/DefineContextStep.tsx, /src/components/wizard/steps/SelectAreaStep.tsx, /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/components/editor/ContentEditor.tsx, /src/components/editor/TreeView.tsx, /src/components/editor/PromptVisualizer.tsx, /src/components/editor/BasisPromptEditor.tsx, /src/pages/GliederungView.tsx, /src/pages/BasisPromptEditor.tsx, /src/index.css
+00:01:14 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:01:24 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:02:13 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:02:43 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:02:52 [vite] (client) hmr update /src/index.css, /src/components/layout/AreaSidebar.tsx
+00:03:20 [vite] (client) hmr update /src/index.css, /src/components/layout/AreaSidebar.tsx
+00:04:58 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:06:13 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:06:45 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:06:55 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:07:28 [vite] (client) hmr update /src/AppAutumn.tsx, /src/index.css
+00:07:28 [vite] Internal server error: /home/raphi/bGen/bgen-new/src/AppAutumn.tsx: Unexpected token, expected "," (727:33)
+
+  725 |             <CustomersAutumn />
+  726 |           ) : activeTab === 'projekte' && !isBusinessMode ? (
+> 727 |             <CustomersAutumn />  {/* Using same component, but will show "Projekte" context */}
+      |                                  ^
+  728 |           ) : activeTab === 'team' && isBusinessMode ? (
+  729 |             <TeamAutumn />
+  730 |           ) : null}
+  Plugin: vite:react-babel
+  File: /home/raphi/bGen/bgen-new/src/AppAutumn.tsx:727:33
+  725 |              <CustomersAutumn />
+  726 |            ) : activeTab === 'projekte' && !isBusinessMode ? (
+  727 |              <CustomersAutumn />  {/* Using same component, but will show "Projekte" context */}
+      |                                   ^
+  728 |            ) : activeTab === 'team' && isBusinessMode ? (
+  729 |              <TeamAutumn />
+      at constructor (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptParserMixin.unexpected (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6644:16)
+      at TypeScriptParserMixin.expect (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6924:12)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11733:14)
+      at TypeScriptParserMixin.parseExprAtom (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11395:23)
+      at TypeScriptParserMixin.parseExprAtom (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:4793:20)
+      at TypeScriptParserMixin.parseExprSubscripts (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11145:23)
+      at TypeScriptParserMixin.parseUpdate (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11130:21)
+      at TypeScriptParserMixin.parseMaybeUnary (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11110:23)
+      at TypeScriptParserMixin.parseMaybeUnary (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9890:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10963:61)
+      at TypeScriptParserMixin.parseExprOps (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10968:23)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10945:23)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at /home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10864:39
+      at TypeScriptParserMixin.allowInAnd (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:12500:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10864:17)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10955:30)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+00:07:28 [vite] Internal server error: /home/raphi/bGen/bgen-new/src/AppAutumn.tsx: Unexpected token, expected "," (727:33)
+
+  725 |             <CustomersAutumn />
+  726 |           ) : activeTab === 'projekte' && !isBusinessMode ? (
+> 727 |             <CustomersAutumn />  {/* Using same component, but will show "Projekte" context */}
+      |                                  ^
+  728 |           ) : activeTab === 'team' && isBusinessMode ? (
+  729 |             <TeamAutumn />
+  730 |           ) : null}
+  Plugin: vite:react-babel
+  File: /home/raphi/bGen/bgen-new/src/AppAutumn.tsx:727:33
+  725 |              <CustomersAutumn />
+  726 |            ) : activeTab === 'projekte' && !isBusinessMode ? (
+  727 |              <CustomersAutumn />  {/* Using same component, but will show "Projekte" context */}
+      |                                   ^
+  728 |            ) : activeTab === 'team' && isBusinessMode ? (
+  729 |              <TeamAutumn />
+      at constructor (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptParserMixin.unexpected (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6644:16)
+      at TypeScriptParserMixin.expect (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:6924:12)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11733:14)
+      at TypeScriptParserMixin.parseExprAtom (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11395:23)
+      at TypeScriptParserMixin.parseExprAtom (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:4793:20)
+      at TypeScriptParserMixin.parseExprSubscripts (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11145:23)
+      at TypeScriptParserMixin.parseUpdate (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11130:21)
+      at TypeScriptParserMixin.parseMaybeUnary (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:11110:23)
+      at TypeScriptParserMixin.parseMaybeUnary (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9890:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10963:61)
+      at TypeScriptParserMixin.parseExprOps (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10968:23)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10945:23)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at /home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10864:39
+      at TypeScriptParserMixin.allowInAnd (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:12500:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10864:17)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10955:30)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/home/raphi/bGen/bgen-new/node_modules/@babel/parser/lib/index.js:10957:29)
+00:09:07 [vite] (client) hmr update /src/components/wizard/WizardContainerAutumn.tsx, /src/index.css
+00:09:36 [vite] (client) hmr update /src/components/wizard/WizardContainerAutumn.tsx, /src/index.css
+00:10:16 [vite] (client) hmr update /src/components/wizard/WizardContainerAutumn.tsx, /src/index.css
+00:12:16 [vite] (client) hmr update /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/index.css
+00:12:48 [vite] (client) hmr update /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/index.css
+00:26:18 [vite] (client) hmr update /src/components/wizard/steps/GenerateResultsStep.tsx, /src/index.css
+00:32:00 [vite] (client) hmr update /src/index.css
+00:32:19 [vite] (client) hmr update /src/components/wizard/steps/DefineContextStep.tsx, /src/index.css
+00:33:00 [vite] (client) hmr update /src/components/wizard/steps/DefineContextStep.tsx, /src/index.css
+00:33:18 [vite] (client) hmr update /src/components/wizard/steps/DefineContextStep.tsx, /src/index.css
+00:33:39 [vite] (client) hmr update /src/components/wizard/steps/DefineContextStep.tsx, /src/index.css
+00:37:37 [vite] (client) hmr update /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/index.css
+00:38:06 [vite] (client) hmr update /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/index.css
+00:38:35 [vite] (client) hmr update /src/components/wizard/steps/SimplifiedSectionsStep.tsx, /src/index.css
+00:39:40 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
+00:40:11 [vite] (client) hmr update /src/pages/InteractiveDemoShowcase.tsx, /src/index.css
