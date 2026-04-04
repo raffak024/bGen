@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bGen AI Text Editor - Einstellungen</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header -->
+    <div class="popup-header">
+      <div class="popup-logo">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+          <circle cx="16" cy="16" r="14" fill="#A85B3A"/>
+          <path d="M12 10h8M12 16h8M12 22h6" stroke="white" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div>
+        <h1>bGen AI Text Editor</h1>
+        <p class="version">Version 1.0.0</p>
+      </div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab active" data-tab="basic">Basis-Einstellungen</button>
+      <button class="tab" data-tab="pro">Pro Version</button>
+    </div>
+
+    <!-- Basic Settings Tab -->
+    <div class="tab-content active" id="tab-basic">
+      <div class="section">
+        <h3>AI Provider</h3>
+        <p class="description">Wähle deinen AI-Provider</p>
+
+        <div class="form-group">
+          <label>Provider</label>
+          <select id="provider" class="form-control">
+            <option value="openai">OpenAI (GPT-4, GPT-3.5)</option>
+            <option value="claude">Anthropic Claude</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>API Key</label>
+          <input type="password" id="apiKey" class="form-control" placeholder="sk-...">
+          <small>Dein API-Key wird nur lokal gespeichert.</small>
+        </div>
+
+        <div class="form-group">
+          <label>Modell</label>
+          <select id="model" class="form-control">
+            <!-- Filled dynamically by JS -->
+          </select>
+        </div>
+      </div>
+
+      <div class="section">
+        <h3>API-Key erhalten</h3>
+        <div class="help-links">
+          <a href="https://platform.openai.com/api-keys" target="_blank" class="help-link">
+            → OpenAI API Key erstellen
+          </a>
+          <a href="https://console.anthropic.com/settings/keys" target="_blank" class="help-link">
+            → Claude API Key erstellen
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pro Version Tab -->
+    <div class="tab-content" id="tab-pro">
+      <div class="section">
+        <div class="pro-badge">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M10 2l2.5 7.5h7.5l-6 4.5 2.5 7.5-6-4.5-6 4.5 2.5-7.5-6-4.5h7.5z"/>
+          </svg>
+          <span>Pro Version</span>
+        </div>
+        <h3>bGen Integration</h3>
+        <p class="description">Verbinde die Extension mit deinem bGen Backend für erweiterte Features.</p>
+
+        <div class="form-group">
+          <label class="checkbox-label">
+            <input type="checkbox" id="proMode">
+            <span>Pro-Modus aktivieren</span>
+          </label>
+        </div>
+
+        <div id="proSettings" style="display: none;">
+          <div class="form-group">
+            <label>bGen Backend URL</label>
+            <input type="url" id="bgenUrl" class="form-control" placeholder="http://localhost:3001">
+          </div>
+
+          <div class="form-group">
+            <label>bGen Token</label>
+            <input type="password" id="bgenToken" class="form-control" placeholder="JWT Token">
+            <small>Dein JWT Token aus dem bGen Login.</small>
+          </div>
+
+          <div class="form-group">
+            <button id="testConnection" class="btn btn-secondary">
+              Verbindung testen
+            </button>
+          </div>
+
+          <div class="pro-features">
+            <h4>Pro Features</h4>
+            <ul>
+              <li>✓ Task-Outputs direkt in Textfelder einfügen</li>
+              <li>✓ Sync zwischen Browser und bGen Tasks</li>
+              <li>✓ Zugriff auf gespeicherte Kontexte und Bereiche</li>
+              <li>✓ Teilen von Verbesserungen im Team</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="popup-footer">
+      <div id="statusMessage" class="status-message"></div>
+      <button id="saveSettings" class="btn btn-primary">
+        Einstellungen speichern
+      </button>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

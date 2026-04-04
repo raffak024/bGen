@@ -1,0 +1,338 @@
+/**
+ * bGen Browser Extension - Content Styles
+ * Autumn theme matching the main bGen app
+ */
+
+/* CSS Variables - Autumn Theme */
+:root {
+  --autumn-rust: #A85B3A;
+  --autumn-terracotta: #B85C38;
+  --autumn-amber: #C17939;
+  --autumn-wheat: #F2E7DC;
+  --autumn-sand: #E8D5C4;
+  --autumn-charcoal: #2C2C2C;
+  --autumn-stone: #5A5A5A;
+  --autumn-ash: #8E8E8E;
+  --autumn-smoke: #D8D8D8;
+  --autumn-snow: #FAFAFA;
+  --autumn-mist: #F5F5F5;
+  --autumn-silver: #B8B8B8;
+  --autumn-success: #5AA469;
+  --autumn-error: #D9534F;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 4px 8px rgba(0, 0, 0, 0.15);
+  --radius-xs: 3px;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+}
+
+/* Toolbar Container */
+.bgen-toolbar {
+  display: flex;
+  gap: 4px;
+  padding: 6px;
+  background-color: var(--autumn-wheat);
+  border: 1px solid var(--autumn-sand);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 2px 8px rgba(168, 91, 58, 0.12);
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.bgen-toolbar-show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Toolbar Buttons */
+.bgen-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 6px 8px;
+  min-width: 60px;
+  background-color: transparent;
+  border: none;
+  border-radius: var(--radius-xs);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: var(--autumn-stone);
+  font-size: 11px;
+}
+
+.bgen-btn:hover:not(:disabled) {
+  background-color: rgba(168, 91, 58, 0.08);
+  transform: translateY(-1px);
+}
+
+.bgen-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.bgen-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.bgen-btn-highlight {
+  background-color: var(--autumn-sand);
+}
+
+.bgen-btn-highlight:hover:not(:disabled) {
+  background-color: var(--autumn-terracotta);
+  color: white;
+}
+
+.bgen-icon {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.bgen-label {
+  font-size: 10px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* Loading Spinner */
+.bgen-loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 8px;
+}
+
+.bgen-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--autumn-smoke);
+  border-top-color: var(--autumn-rust);
+  border-radius: 50%;
+  animation: bgen-spin 0.6s linear infinite;
+}
+
+@keyframes bgen-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Diff Modal */
+.bgen-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999999;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.bgen-modal-show {
+  opacity: 1;
+}
+
+.bgen-modal-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(90, 90, 90, 0.4);
+  backdrop-filter: blur(2px);
+}
+
+.bgen-modal-content {
+  position: relative;
+  background-color: var(--autumn-snow);
+  border: 1px solid var(--autumn-smoke);
+  border-radius: var(--radius-sm);
+  max-width: 700px;
+  width: 90%;
+  max-height: 80vh;
+  overflow: auto;
+  padding: 24px;
+  box-shadow: 0 8px 32px rgba(90, 90, 90, 0.15);
+  animation: bgen-slide-up 0.3s ease-out;
+}
+
+@keyframes bgen-slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.bgen-modal-header h3 {
+  margin: 0 0 20px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--autumn-charcoal);
+}
+
+.bgen-modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bgen-diff-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.bgen-diff-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--autumn-ash);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.bgen-diff-label-improved {
+  color: var(--autumn-rust);
+}
+
+.bgen-diff-original {
+  padding: 12px;
+  background-color: white;
+  border: 1px solid var(--autumn-smoke);
+  border-radius: var(--radius-xs);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--autumn-ash);
+  text-decoration: line-through;
+  opacity: 0.75;
+}
+
+.bgen-diff-improved {
+  padding: 12px;
+  background-color: var(--autumn-wheat);
+  border: 1px solid var(--autumn-sand);
+  border-radius: var(--radius-xs);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--autumn-charcoal);
+  font-weight: 500;
+  box-shadow: 0 1px 3px rgba(168, 91, 58, 0.08);
+}
+
+.bgen-modal-footer {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.bgen-btn-secondary {
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid var(--autumn-smoke);
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--autumn-stone);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.bgen-btn-secondary:hover {
+  background-color: var(--autumn-mist);
+  border-color: var(--autumn-silver);
+}
+
+.bgen-btn-primary {
+  padding: 10px 20px;
+  background-color: var(--autumn-rust);
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(168, 91, 58, 0.2);
+  transition: all 0.2s ease;
+}
+
+.bgen-btn-primary:hover {
+  background-color: var(--autumn-terracotta);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(168, 91, 58, 0.25);
+}
+
+.bgen-btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Notification */
+.bgen-notification {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  background-color: var(--autumn-charcoal);
+  color: white;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-lg);
+  font-size: 14px;
+  font-weight: 500;
+  z-index: 9999999;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.bgen-notification-show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.bgen-notification-success {
+  background-color: var(--autumn-success);
+}
+
+.bgen-notification-error {
+  background-color: var(--autumn-error);
+}
+
+.bgen-notification-info {
+  background-color: var(--autumn-rust);
+}
+
+/* Make sure extension styles don't interfere with page */
+.bgen-toolbar,
+.bgen-modal,
+.bgen-notification {
+  all: initial;
+  * {
+    all: unset;
+  }
+}
+
+/* Re-apply our styles */
+.bgen-toolbar * {
+  box-sizing: border-box;
+}
+
+.bgen-modal * {
+  box-sizing: border-box;
+}
+
+.bgen-notification * {
+  box-sizing: border-box;
+}

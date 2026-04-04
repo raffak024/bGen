@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bGen Login</title>
+  <link rel="stylesheet" href="popup.css">
+  <style>
+    .login-container {
+      padding: 24px;
+      min-height: 400px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .login-logo {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    .login-logo svg {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 16px;
+    }
+    .login-logo h1 {
+      font-size: 24px;
+      margin: 0 0 8px 0;
+      color: var(--autumn-charcoal);
+    }
+    .login-logo p {
+      font-size: 14px;
+      color: var(--autumn-ash);
+      margin: 0;
+    }
+    .login-form {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .form-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 8px;
+    }
+    .btn-full {
+      width: 100%;
+    }
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 16px 0;
+    }
+    .divider-line {
+      flex: 1;
+      height: 1px;
+      background-color: var(--autumn-smoke);
+    }
+    .divider-text {
+      font-size: 12px;
+      color: var(--autumn-ash);
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <div class="login-logo">
+      <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+        <circle cx="32" cy="32" r="28" fill="#A85B3A"/>
+        <path d="M24 20h16M24 32h16M24 44h12" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      </svg>
+      <h1>Willkommen bei bGen!</h1>
+      <p>AI Text Editor Extension</p>
+    </div>
+
+    <form class="login-form" id="loginForm">
+      <div class="form-group">
+        <label>Benutzername oder E-Mail</label>
+        <input type="text" id="username" class="form-control" placeholder="username" required autocomplete="username">
+      </div>
+
+      <div class="form-group">
+        <label>Passwort</label>
+        <input type="password" id="password" class="form-control" placeholder="••••••••" required autocomplete="current-password">
+      </div>
+
+      <div id="errorMessage" class="status-message error" style="display: none;"></div>
+
+      <div class="form-actions">
+        <button type="submit" class="btn btn-primary btn-full" id="loginBtn">
+          Anmelden
+        </button>
+        <button type="button" class="btn btn-secondary btn-full" id="useWithoutLoginBtn">
+          Ohne Login verwenden (API Key)
+        </button>
+      </div>
+    </form>
+
+    <div class="divider">
+      <div class="divider-line"></div>
+      <span class="divider-text">Neu bei bGen?</span>
+      <div class="divider-line"></div>
+    </div>
+
+    <div style="text-align: center;">
+      <a href="http://localhost:5173" target="_blank" style="color: var(--autumn-rust); text-decoration: none; font-size: 14px;">
+        → Kostenloses Konto erstellen
+      </a>
+    </div>
+  </div>
+
+  <script src="login.js"></script>
+</body>
+</html>

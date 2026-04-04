@@ -1,0 +1,30 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: app-bgen
+    restart: unless-stopped
+    environment: []
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+        reservations:
+          memory: 64M
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: '3'
+    labels:
+    - traefik.enable=true
+    - traefik.http.routers.bgen.rule=Host(`bgen.pi.local`)
+    - traefik.http.routers.bgen.entrypoints=web
+    - traefik.http.services.bgen.loadbalancer.server.port=3000
+    networks:
+    - proxy
+networks:
+  proxy:
+    external: true
