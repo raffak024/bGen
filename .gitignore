@@ -4,3 +4,8 @@ _DEMO_Entitys/settings.json
 .env
 .env.*
 node_modules/
+.env.local
+.env.production
+SERVER_INFO*.txt
+*.pem
+*.key
